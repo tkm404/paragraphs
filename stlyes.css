@@ -2,3 +2,26 @@
     width: 50%;
     font-style: italic;
 }
+.author {
+    width: 75%;
+    font-style:italic;
+    font-weight: bold;
+}
+.important {
+    color: red
+}
+.emphasize {
+    font-weight: bold;
+}
+.highlight {
+    background-color: yellow;
+}
+p.intro {
+    color:red;
+}
+#line2 {
+    color: red;
+}
+#line3 {
+    color: blue;
+}
